@@ -1,0 +1,2954 @@
+{
+    "0.1": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.5546885251102408,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5706165291190978,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5866155997827481,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6022053116186196,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6237725867370891,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6334743571565195,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6560979232731253,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.667468986357113,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6836946385596866,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7033892622381771,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7123380501107246,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7401199985338214,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7447305590363777,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7760359271691699,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7646145934013329,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.794395836729707,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8602984011609899,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6152360310459518,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6347655336565562,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6532778121802777,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6685421578126505,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6899377527485091,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7133239462776461,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7253076201027395,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.739572588144832,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7554315416313236,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7873504402040951,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8010052525836756,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8194035817642925,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8351769184141086,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8532194051426955,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8666092941731388,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8616288832789398,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8851631945907932,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.6285633048854398,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6421716366399917,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6533680187030363,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6659585461460048,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6808984879336233,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6956333652694764,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.705709287289868,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7223475636568392,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7261402456783475,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7462175491850932,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7620401394138927,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7691328935126609,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7927369881529978,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.804559015657913,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8060807552011136,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8652356456040841,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.95,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6440194093623065,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6609547042884523,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6786535661954528,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6966865412815101,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7142840847746846,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7308066130147315,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.748397462988333,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7674035097481211,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7863407155629656,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7988942538024186,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8180465688484214,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8263472489950917,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8485730785940683,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8713147399718916,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8682663824387067,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.872374708917841,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9054647318925698,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.7683747920160421,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7684256568841371,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.784512489546897,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7781455430068603,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7904583352972665,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.803932599969665,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8075413676553188,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8175587739736183,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.826550211337761,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8203525830634841,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.838662678581772,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8475370897475617,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8501570343589323,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8532977126641115,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8408858815333827,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8438408170896929,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.864525238795839,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.8479437664169569,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.8606153144351254,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.8182622183637899,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.784999670020611,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.8470556748050075,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.8133966273955135,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8495154303788874,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7943431550506943,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.845848273611785,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7997079341945686,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8652421731512949,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8639499638520403,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8182981217528382,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.858756254359926,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8801340384921288,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8038254099383548,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8565688736524847,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.752528809089415,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.8317874711456636,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7780957735793006,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.8076243394250975,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.843933274374907,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7857160269029518,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8359376096586381,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8400296241055878,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8534150029535632,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7792707460917163,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8353083960072506,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7983428057668677,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.839207203075604,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8590682909870802,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8139320980759036,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7814696269616266,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8036296545978221,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    },
+    "0.15": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.5401429552236982,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5568328012181177,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5722868499775733,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.5894297944076916,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.603564731052454,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6165332613434756,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6315524595882107,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.6583672061376956,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6743920062380656,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.6791390540012804,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7045580869646993,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7152545864655223,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.731275050062994,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7525991675855976,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7408505638592963,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7985443945233724,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8354482363393146,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6307234824085488,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6494114938626764,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6668602992456413,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6894647858185066,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7030002684852329,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7251681261693669,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7488593253320655,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7702223661663378,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7855848331573029,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7965416614433122,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8189181080073844,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8326348625478575,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8567444268924722,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8709179629080948,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8812847579995996,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.9009979261942824,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9092925460204776,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.6467669952921018,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6604313558726104,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6737306477553231,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6853602966014425,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7026113759846506,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.711416977375718,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7264254789055854,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7364432500370128,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7528852707641783,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7710199421459953,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7765349348526314,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7961434093847101,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8046729107299225,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8253157892067996,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8380720841180896,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8764911574228654,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.95,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6463151555280139,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6626314513653006,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6789215342208618,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.701025413223933,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7124825420320027,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7354292283897843,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7547055965702043,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7702223661663378,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7855848331573029,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8066669512931155,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8189181080073844,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8326348625478575,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8638013288523052,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8777441762653,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8812847579995996,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.9009979261942824,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.921199899650272,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.7732516700729425,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.778931834575165,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7814116364166835,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7913336621451184,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7876611191450263,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.805164938864727,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8033263261801645,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8175759785231036,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8181745408385933,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8155943859028668,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8363009476807534,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8433026169858778,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8421743694452264,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8424422095481496,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8451980391259523,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8401560248608495,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8864739015661396,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.7472976981721319,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7347912236356307,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7991716049618697,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.8104852157818095,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7679130652776729,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7824727500039634,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7712185788462844,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7927217145377344,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7785902968232271,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7605112664814049,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8190834299565843,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7933763408078379,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7888742195624128,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8310844229622749,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8103844831098812,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7898282983172862,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8731751407954862,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.7330071638456384,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.8042446230626386,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7574487541834132,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7411192578325666,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7504010594861386,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7705391282321231,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.750937525975781,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8346846064998389,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7686263364107911,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.779571696588836,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8414773012707284,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8423572445407171,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8427240829391327,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8542334430171967,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8574144803699646,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8802776008107437,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8650795810909128,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    },
+    "0.2": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.5537856453277984,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5702875053071244,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5863230495202738,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6057963555764105,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6229619202296369,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6334204246615628,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6559140047178394,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.6714237818271743,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6808225718960446,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7007979131973975,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7276262617591587,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7452132589636052,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7473293729808018,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.763854042601621,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7781810858703112,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8153022508528673,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8547212839309118,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6193195698086918,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6386772589969633,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6573602214489023,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6732299298280868,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6903268860036794,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7173929182617994,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7276152558597054,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7474164492561067,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7633817779498628,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7850064925721325,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8144487792762324,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8349822869681612,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8322563555403888,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8640933326687767,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8593571724413476,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8783143749553884,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8972688264216354,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.6465376562566122,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6603054372242713,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6721113503092496,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.686177192744223,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7002630420814908,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7164031203984865,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.728882126330981,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7367110423381561,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7597214844190985,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7690938254671702,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.774613390936052,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8020539179052328,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8069595306484939,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8147370806821853,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8366560037898719,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8773100864283584,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.95,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6533254025879394,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.671107805849812,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6867770992480997,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7070153047454456,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7211726508131787,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7441347385395484,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7567184906990561,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7811210005835829,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7859844189109357,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8064626479272347,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8330011481669133,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8441650375483088,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.858451454252384,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8756905487346457,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8778790126491123,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.9060426100973541,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9300781316083039,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.7723115996230733,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7718923842499156,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.776259283512471,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7888642045368223,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7854096750658124,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7935747209142414,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7973114336059361,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8015382406009497,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8125416775700751,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8225233065338468,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.835532639101579,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8261875074447486,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8344665464890985,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8417429308246752,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8303045543625757,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8462635402370844,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8858141147801976,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.6696433285199275,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6585421789505274,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.687795167844608,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6989347484050903,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6526988312514599,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.684239993501806,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.736315341643346,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7317014132788608,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6917657000772669,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7568100757512842,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7779340273415492,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7280725918592765,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7123818539383886,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.740235484875371,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7142203670196051,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8104146354955033,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.7826937643477291,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.6961237813110781,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7264119949740789,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7056529373127156,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6975455278129694,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7423342678614274,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6812739689650416,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7501868254966574,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7304990549594962,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7596035740741489,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.6931299623653921,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7131763177932805,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7462081386801485,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7419259033248246,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7405465636479606,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7864665166020989,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7862516283972081,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.7322029256238772,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    },
+    "0.3": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.5497246750119157,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.566073399153248,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5844904715191497,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.59952485133148,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6191754311217408,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6337126892792674,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6535018853531135,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.6649756900660817,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6883883641758797,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.6902246253856664,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7144957998693909,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7286364203608309,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7411522530015153,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7641755926970566,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7579692252641789,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.802841427381795,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8397770737080263,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6208635258834432,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6396267529920879,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6602305324097655,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6789124319105752,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6978597846678037,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7124064016192518,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.735236985535452,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7546316778689557,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.775494540716039,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7824712057153568,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.815242886889821,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.82267891194991,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8352390597002068,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8542824421150114,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8630274081320162,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8880200812018186,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9155801132761768,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.646767881591887,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6596200428965205,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6723764668297131,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6863744073333061,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7003442223520938,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7174795636913478,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.723189151400564,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7448889368082159,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.758421199355496,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7713760915989086,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7778518792620297,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.795834889867718,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8030666767011742,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8239502968807403,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8269088250253944,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8949909955927381,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.95,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6452790429022576,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6636047902633883,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.679745608255349,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.699069666277834,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7174060124493953,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7322515632538793,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7454448861506163,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7635693374127397,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7912331017133101,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7994606272162307,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8200532769940243,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8281094388391917,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8457148587583967,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8741364525147736,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8658657785763475,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8997030601324569,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9155801132761768,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.7669258176528936,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7718292945959688,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7742506855391941,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7732717455791122,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7920120563974251,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7903550433745271,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7996780869080151,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8077159184551629,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8115848257312755,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8278577313424941,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8176293044280573,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8300530374759881,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8496979145695943,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8446968269728726,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8388614462979754,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8509565531075848,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8666925576149779,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.5870159429874106,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.671618486281955,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7493294881403634,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7266567604284516,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.755404645631455,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7780288365477759,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.81745602324158,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7692510110515833,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6603652495006779,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.6598839992820125,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7522531155813336,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.6814442907257281,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7411401862783682,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8003132528370125,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7845594221351826,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7907522766155632,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.7498157664820215,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.6232951011838224,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6737829752011013,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6651515616092117,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7060463520922423,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7013186631152897,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6990350451401216,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7577477640269334,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.719245083168101,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6498692222765284,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.687149051022147,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7788423955299734,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8042517912731774,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8197502651861491,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7050262368581903,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8161410160783991,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.810438600998371,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8817946247297651,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    },
+    "0.4": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.5562148640674925,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5718112529087698,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5908380711672737,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6047773292769599,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6193710874568397,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6379827425843728,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6611684516077759,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.666171117747694,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6931313356831382,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7091984057477673,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.726232468033175,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7414774027561437,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7652618075691845,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7591371631448047,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7690045238138316,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8134595196658168,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8401851919556175,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6229406680715402,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6407883104076998,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6611571086401367,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6778109255371183,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6993033346405365,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.712636496479055,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7320497612151846,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7500753679543021,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7806263549568512,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7964970663402072,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8182133662093217,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8282153161280474,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8431245440707207,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8763695097241032,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.857662652365654,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8793305370275715,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8976360159109992,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.6439691140959108,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6580414321316623,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.671831763665731,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6864107097997182,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6971651449598216,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7110459948179504,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7274274818925434,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7378006821143936,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7501043545664798,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7654875627978373,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7754340481302429,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7955693654885495,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.80242019046446,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8249129605709978,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8297205548117116,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.876618664604416,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.95,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6520499809587933,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.669089844579357,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6868446691579164,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7015487503351109,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7246427545884203,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7361203684986712,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7550800313246945,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7746048979828726,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7936549182809021,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8181787517664524,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8363857944432166,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8356650508418652,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8613589973637747,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.878182037281318,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.881205725456841,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8926431110691406,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.899588936476443,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.7677949407272153,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7807562850540044,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.7760361249240882,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7856744015374508,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7940794743964431,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7967405313369837,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8108095763322742,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8145013612270035,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8176660633379796,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8349256399395584,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8373400217416757,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8356644503489046,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8444883763875762,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8622393316707986,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8393715501169908,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8414086424487999,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8679953771970946,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.7488893866448109,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6005707697385269,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6565725166820899,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6860319424426738,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7356215795898823,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6771247578003602,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6922402208846794,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.6828705278955451,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6807638114748562,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8331017886275228,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.6763130512476122,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7418720823925927,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7092151879835482,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8123867371443796,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8584034179433171,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8291974113423607,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.736986997817608,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.640619079019604,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7108524956043132,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6538013918389465,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6672358551200099,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7635431557388039,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6546221210602633,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6978980920634401,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7771658308517838,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7461452323942382,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8369402785500291,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.752585673237983,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7737057569526881,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8403857987490226,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7693211325366662,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7529781554374987,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8266610399135114,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8815315790535965,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    },
+    "0.5": {
+        "Positive Modified Greedy": [
+            {
+                "AF": 0.546884323889266,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5635149386128648,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.5780188148620038,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.5933016499973819,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6089479773598923,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6320070136537554,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6396102969940803,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.6674856800802832,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.6824554767036625,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.6902425422869803,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7121805534046325,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7273078939267626,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7535059429770856,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7627430801112103,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7533750191150927,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8085688604962211,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8199596619997304,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Positive Greedy Max": [
+            {
+                "AF": 0.6152739785755409,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6331703517439623,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6513801114420128,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.66944129074493,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6927941085528431,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7069113857140278,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7304840726331506,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7388345235285723,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7581441552622259,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7788730472860367,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7994801478336637,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8108304824243034,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.852179007723809,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8626475892791738,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8548710622701682,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8671153503490078,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9018830557632479,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Two Set Enumeration Positive Greedy": [
+            {
+                "AF": 0.6297611741504614,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.643468595628119,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6547178120331968,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6701953731090109,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6809989774620554,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6923079277695267,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7068442543661397,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7165289415515506,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.730817180711504,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7426206851193358,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7566122931402087,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7737987302943469,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7949169972108956,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8016711894445153,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7971733206556814,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8538484623090193,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9488676263271981,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "One Set Enumeration Positive Greedy Max": [
+            {
+                "AF": 0.6414883792609334,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.6585013682071126,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6756370896570828,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6930358073333857,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7091633850155921,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.7237067305996209,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7435068367484309,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7663410727037016,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7851928725868492,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7988483868401162,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8149437780003295,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8228095769846058,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8528548855720288,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8626475892791738,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8579669297984281,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8720576354264562,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.9033933900955149,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Sample Greedy": [
+            {
+                "AF": 0.776219122516992,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7726204447354504,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.784312258921839,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7951967772394571,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.7956346738962073,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.809523211583662,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.8021657461290395,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.8171698066338816,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.8150831618061548,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.8203212511194421,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.8240823753155403,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.8412382149699121,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.8556968443534849,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8560475314078819,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.8533735180020845,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.848525207083383,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.8797553744056285,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Deterministic Linear Approximation": [
+            {
+                "AF": 0.6416605008764062,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.5868742468255964,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6481446852721766,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.6889689299760371,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6892001716142533,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6913328833895208,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.7205325682386219,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7360412740474414,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.735580222795216,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7546318654301576,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.7014844103804416,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.7165141878727393,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7740455490547339,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.7810094200129649,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7608037014007779,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.7953176495620091,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.7309574076442259,
+                "monotonicity_ratio": 0.96
+            }
+        ],
+        "Randomized Linear Approximation": [
+            {
+                "AF": 0.6939202368013475,
+                "monotonicity_ratio": 0.0
+            },
+            {
+                "AF": 0.7037892299594118,
+                "monotonicity_ratio": 0.06
+            },
+            {
+                "AF": 0.6852901164458601,
+                "monotonicity_ratio": 0.12
+            },
+            {
+                "AF": 0.7720806813260793,
+                "monotonicity_ratio": 0.18
+            },
+            {
+                "AF": 0.6781043114229137,
+                "monotonicity_ratio": 0.24
+            },
+            {
+                "AF": 0.6362120692782349,
+                "monotonicity_ratio": 0.3
+            },
+            {
+                "AF": 0.6271507628094557,
+                "monotonicity_ratio": 0.36
+            },
+            {
+                "AF": 0.7187447928769679,
+                "monotonicity_ratio": 0.42
+            },
+            {
+                "AF": 0.7214763297036965,
+                "monotonicity_ratio": 0.48
+            },
+            {
+                "AF": 0.7914003709015578,
+                "monotonicity_ratio": 0.54
+            },
+            {
+                "AF": 0.6923158154167479,
+                "monotonicity_ratio": 0.6
+            },
+            {
+                "AF": 0.6876871869243106,
+                "monotonicity_ratio": 0.66
+            },
+            {
+                "AF": 0.7085311298465802,
+                "monotonicity_ratio": 0.72
+            },
+            {
+                "AF": 0.8258266760797789,
+                "monotonicity_ratio": 0.78
+            },
+            {
+                "AF": 0.7011111565854238,
+                "monotonicity_ratio": 0.84
+            },
+            {
+                "AF": 0.8195679858141924,
+                "monotonicity_ratio": 0.9
+            },
+            {
+                "AF": 0.7905144656467352,
+                "monotonicity_ratio": 0.96
+            }
+        ]
+    }
+}
