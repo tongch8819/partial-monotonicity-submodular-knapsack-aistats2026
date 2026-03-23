@@ -102,8 +102,8 @@ for i in range(len(budget_ratios)):
     ax_i.set_title(
         f"IE Marketing (Budget Ratio: {budget_ratios[i]})", fontsize=16, fontweight='bold')
 for r in range(3):
-    axs[r, 0].set_ylabel('Empirical Ratio', fontsize=16)
-    axs[r, 2].set_ylabel('Empirical Ratio', fontsize=16)
+    axs[r, 0].set_ylabel('Empirical Approximation Ratio', fontsize=16)
+    axs[r, 2].set_ylabel('Empirical Approximation Ratio', fontsize=16)
 for c in range(4):
     axs[2, c].set_xlabel('Monotonicity Ratio', fontsize=16)
 for ax in axs.flat:
